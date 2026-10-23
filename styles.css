@@ -1,0 +1,22 @@
+body{
+text-align: center;
+background-color: yellow;
+border: 2px solid lightyellow;
+}
+h2{
+margin-top: 0px;
+}
+section{
+
+display:flex;
+background-image: url("heisenberg.jpg");
+height: 580px;
+background-size: cover;
+background-repeat: no-repeat;
+
+
+justify-content: right;}
+
+
+p{
+color: blue;}
